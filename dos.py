@@ -50,3 +50,4 @@ class Sierra:
         def graficar(self, array):
                 plt.plot(array, color="green", linewidth=1.0, linestyle="-")
                 plt.show()
+                # Comentario nuevo ejemplo
